@@ -13,6 +13,9 @@
 		D6949F572797A00800A316CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6949F552797A00800A316CA /* Main.storyboard */; };
 		D6949F592797A00E00A316CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6949F582797A00E00A316CA /* Assets.xcassets */; };
 		D6949F5C2797A00E00A316CA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6949F5A2797A00E00A316CA /* LaunchScreen.storyboard */; };
+		D6949F642797B48B00A316CA /* ContentTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6949F632797B48A00A316CA /* ContentTableViewCell.swift */; };
+		D6949F662797B54300A316CA /* ChatTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6949F652797B54300A316CA /* ChatTableViewController.swift */; };
+		D6949F682797B5CE00A316CA /* LyricData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6949F672797B5CE00A316CA /* LyricData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		D6949F582797A00E00A316CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D6949F5B2797A00E00A316CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D6949F5D2797A00F00A316CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D6949F632797B48A00A316CA /* ContentTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentTableViewCell.swift; sourceTree = "<group>"; };
+		D6949F652797B54300A316CA /* ChatTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatTableViewController.swift; sourceTree = "<group>"; };
+		D6949F672797B5CE00A316CA /* LyricData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LyricData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +66,9 @@
 				D6949F512797A00800A316CA /* SceneDelegate.swift */,
 				D6949F532797A00800A316CA /* ViewController.swift */,
 				D6949F552797A00800A316CA /* Main.storyboard */,
+				D6949F672797B5CE00A316CA /* LyricData.swift */,
+				D6949F652797B54300A316CA /* ChatTableViewController.swift */,
+				D6949F632797B48A00A316CA /* ContentTableViewCell.swift */,
 				D6949F582797A00E00A316CA /* Assets.xcassets */,
 				D6949F5A2797A00E00A316CA /* LaunchScreen.storyboard */,
 				D6949F5D2797A00F00A316CA /* Info.plist */,
@@ -141,6 +150,9 @@
 				D6949F542797A00800A316CA /* ViewController.swift in Sources */,
 				D6949F502797A00800A316CA /* AppDelegate.swift in Sources */,
 				D6949F522797A00800A316CA /* SceneDelegate.swift in Sources */,
+				D6949F642797B48B00A316CA /* ContentTableViewCell.swift in Sources */,
+				D6949F662797B54300A316CA /* ChatTableViewController.swift in Sources */,
+				D6949F682797B5CE00A316CA /* LyricData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
